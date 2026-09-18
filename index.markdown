@@ -6,9 +6,15 @@ Hello, my name is Felisa Forbes. I'm 20 years old and a second year Graphic Desi
 
 ## Education
 
+I'm currently attending Humber Polytechnic and as I said, I'm is my second year of the graphic design program.
+
 ## Employment
 
+As of right now, I am employed at Chick-fil-A. In the furture, I want to venture out into design.
+
 ## Projects
+
+
 
 ## Contact Me
 
