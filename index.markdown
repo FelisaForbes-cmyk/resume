@@ -12,4 +12,4 @@ Hello, my name is Felisa Forbes. I'm 20 years old and a second year Graphic Desi
 
 ## Contact Me
 
-[Visit My LinkedIn!] (https://www.linkedin.com/in/felisa-forbes-0583a8310/)
+[Visit My LinkedIn!](https://www.linkedin.com/in/felisa-forbes-0583a8310/)
